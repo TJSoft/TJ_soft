@@ -1,4 +1,5 @@
 {
+	"counter": 5,
 	"app_enable" : true,
 	"app_name" : "Fruit sort puzzle",
 	"app_id" : "ca-app-pub-3434357901126951~3635877425",
