@@ -1,10 +1,18 @@
 {
-	"counter": 5,
-	"app_enable" : true,
-	"app_name" : "Fruit sort puzzle",
-	"app_id" : "ca-app-pub-3434357901126951~3635877425",
-	"banner_id" : "ca-app-pub-3434357901126951/2746920285",
-	"interstitial_id" : "ca-app-pub-3434357901126951/5051032880",
-	"reward_id" : "ca-app-pub-3434357901126951/6890179424",
-	"reward_interstitial_id" : "ca-app-pub-3434357901126951/3228051767"
+  "counter": 5,
+  "easy_counter": 4,
+  "medium_counter": 3,
+  "hard_counter": 1,
+  "expert_counter": 1,
+  "undo_reward": 5,
+  "swap_reward": 3,
+  "extra_stick_reward": 1,
+  "app_enable": true,
+  "app_name": "Fruit sort puzzle",
+  "app_id": "ca-app-pub-3434357901126951~3635877425",
+  "banner_id": "ca-app-pub-3940256099942544/9214589741",
+  "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "reward_id": "ca-app-pub-3940256099942544/5224354917",
+  "app_open_id": "ca-app-pub-3940256099942544/9257395921",
+  "reward_interstitial_id": "ca-app-pub-3940256099942544/5354046379"
 }
